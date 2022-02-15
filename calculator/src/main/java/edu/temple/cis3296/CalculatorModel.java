@@ -107,7 +107,7 @@ public class CalculatorModel {
             start = true;
         }
     }
-
+//Testing
     public double operationClear() { return 0.0; }
 
     public double operationAdd(double rhs, double lhs) {
