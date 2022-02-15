@@ -107,11 +107,11 @@ public class CalculatorModel {
             start = true;
         }
     }
-
+//Testing
     public double operationClear() { return 0.0; }
 
     public double operationAdd(double rhs, double lhs) {
-        return lhs + lhs;
+        return rhs + lhs;
     }
 
     public double operationSubst(double rhs, double lhs) {
